@@ -5,10 +5,10 @@ This project aims to classify movie reviews into positive and negative sentiment
 ## Technologies Used
 * Programming Language: Python  
 * Libraries/Frameworks:
-* NLP: NLTK, spaCy
-* Machine Learning: Scikit-learn
-* Data Handling: pandas, NumPy
-* Visualization: Matplotlib, Seaborn
+   * NLP: NLTK, spaCy
+   * Machine Learning: Scikit-learn
+   * Data Handling: pandas, NumPy
+   * Visualization: Matplotlib, Seaborn
 
 ## Dataset
 The dataset consists of movie reviews, where each review is labeled as either "positive" or "negative." The dataset can be obtained from various open sources, such as Kaggle's IMDb reviews dataset or other movie review datasets.
